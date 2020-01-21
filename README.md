@@ -2,7 +2,7 @@
 
 Simple spectrum analyzer based on ATMega8 microcontroller. Rather a proof-of-concept (or cool gadget) than a really useful device. Written in C.
 
-![](analyzer.jpg)
+![](analyzer.JPG)
 
 ### Features
 
