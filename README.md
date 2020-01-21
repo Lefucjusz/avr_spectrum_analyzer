@@ -1,4 +1,4 @@
-#ATMega8 AVR Spectrum Analyzer
+# ATMega8 AVR Spectrum Analyzer
 
 Simple spectrum analyzer based on ATMega8 microcontroller. Rather a proof-of-concept (or cool gadget) than a really useful device. Written in C.
 
