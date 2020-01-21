@@ -1,3 +1,4 @@
+//ATMega8, Fuses: LO = 0xFF, HI = 0xC9, XTAL = 13.875MHz
 #include <avr/io.h>
 #include <util/delay.h>
 #include <math.h>
